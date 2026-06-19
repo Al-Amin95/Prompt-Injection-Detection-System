@@ -1,0 +1,23 @@
+# Core deep learning
+torch
+transformers
+datasets
+accelerate
+
+# Data handling & evaluation
+pandas
+numpy
+scikit-learn
+
+# Explainability
+shap
+
+# Visualisation
+matplotlib
+
+# Web application (Flask chosen as primary; Streamlit optional alternative)
+flask
+# streamlit
+
+# Note: exact version numbers will be pinned after the environment is tested
+# in Colab (Phase 4), so the project is fully reproducible.

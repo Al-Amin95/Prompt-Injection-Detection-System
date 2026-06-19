@@ -1,0 +1,38 @@
+# ---- Secrets (NEVER commit) ----
+.env
+*.key
+*secret*
+credentials.json
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- Large model files & caches ----
+models/*
+!models/.gitkeep
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+*.h5
+
+# ---- Data (review licence before committing) ----
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
