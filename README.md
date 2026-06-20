@@ -28,7 +28,9 @@ screens prompts before they reach a target Large Language Model (LLM).
 ## Datasets
 
 - **deepset/prompt-injections** — Hugging Face (deepset, 2023)
-- **PromptShield** — Mendeley Data (Rahman et al., 2025)
+
+
+
 
 ## Models
 
