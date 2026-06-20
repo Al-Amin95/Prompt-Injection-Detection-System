@@ -1,6 +1,4 @@
-# Prompt Injection Detection Using Fine-Tuned Transformer Models
-
-**A Glass-Box Approach with Explainable AI**
+# Prompt Injection Detection Using Fine-Tuned Transformer Models with a Glass-Box Approach with Explainable AI
 
 A dissertation project that detects prompt injection attacks by classifying prompts
 as **SAFE** or **INJECTION** using fine-tuned BERT-variant transformer models, with
